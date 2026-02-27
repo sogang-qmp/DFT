@@ -1,3 +1,14 @@
+
+
+This is a toy project to test Claude Code. 
+
+
+Initial prompt:
+
+Build a plane wave pseudopotential density functional theory program for solids in Jax. Make no mistakes.
+
+---
+
 # PWDFT
 
 Plane-wave pseudopotential density functional theory for solids, written in JAX.
